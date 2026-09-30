@@ -59,8 +59,7 @@ There's no separate automated test suite; test manually by:
 3. Confirming the 3rd booking is rejected once capacity is reached.
 4. Choosing option 5 to confirm the fill-rate report shows 100%.
 
-## Screenshots
-*(Add a screenshot of the menu and a sample run here before submitting.)*
+
 
 ## Future Enhancements
 - Persist data to a file so events/bookings survive between runs
